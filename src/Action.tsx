@@ -342,7 +342,7 @@ const ActionPage = () => {
 					onClick={handleBlockButton}
 					title="Quickly blacklist or unblacklist this site from creating new tab groups">
 					{/* <p> */}
-					{siteIsBlocked ? "Enable for this domain" : "Disable for this domain"}
+					{siteIsBlocked ? "Enable for this domain" : "Disable for this domain (modified)"}
 					{/* </p> */}
 				</div>
 			</div>
